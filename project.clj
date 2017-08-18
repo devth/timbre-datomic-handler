@@ -1,4 +1,4 @@
-(defproject devth/timbre-datomic-handler "0.1.0"
+(defproject devth/timbre-datomic-handler "0.1.1-SNAPSHOT"
   :description "A simple Datomic handler that logs via Timbre"
   :url "https://github.com/devth/timbre-datomic-handler"
   :deploy-repositories [["releases" :clojars]
