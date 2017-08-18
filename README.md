@@ -14,6 +14,12 @@ and log them via Timbre:
 devth.timbre-datomic-handler/handler
 ```
 
+Add this line to your Datomic config to use it:
+
+```
+    metrics-callback=devth.timbre-datomic-handler/handler
+```
+
 ## License
 
 Copyright © 2017 Trevor C. Hartman
